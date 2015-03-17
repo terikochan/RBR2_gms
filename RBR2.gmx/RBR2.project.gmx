@@ -96,6 +96,7 @@
   </objects>
   <rooms name="rooms">
     <room>rooms\Menu</room>
+    <room>rooms\room4</room>
     <room>rooms\rm_H1</room>
     <room>rooms\rm_P2</room>
     <room>rooms\rm_P1</room>
